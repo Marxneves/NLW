@@ -49,7 +49,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/marxneves/NLW
+$ git clone https://github.com/Marxneves/NLW.git
 
 # Go into the repository
 $ cd NLW-01/server
